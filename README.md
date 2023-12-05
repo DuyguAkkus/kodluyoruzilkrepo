@@ -8,7 +8,7 @@ Bu bir **Markdown** metni örneğidir.
 [Bu likten gitHub hesabıma bakabilirsiniz](https://github.com/DuyguAkkus)
 
 * Oluşturduğum HTML projesinin görseli
-![Gorsel](http://127.0.0.1:5500/index.html)
+![Gorsel](markdown-gorsel/deneme.jpg)
 
 ```javascript
 console.log('Merhaba, dünya!');
